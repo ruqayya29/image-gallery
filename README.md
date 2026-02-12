@@ -27,5 +27,5 @@ HTML5
 CSS3 (Flexbox)
 
 ## How to view
-Click here to view :
+Click here to view : https://ruqayya29.github.io/image-gallery/
 
